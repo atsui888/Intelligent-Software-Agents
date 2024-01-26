@@ -3,7 +3,7 @@ Practice Module 3 for National University of Singapore (ISS) Masters of Technolo
 <br>(10 man-days project)
 
 For this Semester, module is on Intelligent Software Agents (Intelligent Process Automation). This space will be updated soon.
-quite likely I'll instruction finetune phi-2, align it and red team it for safety and ethics, and use this model in replacing (automating) manual steps in a business process and also intelligently with Human-in-the-loop.
+quite likely I'll instruction finetune phi-2, align it and red team it for safety and ethics, and use this model in replacing (automating) manual steps in a business process and also with intelligent decision making and with Human-in-the-loop.
 <br>
 Probably using phi-2 instead of a larger LLM to save on compute time and cost. (AWS isn't cheap, especially when using own funds :) )
 <br>
