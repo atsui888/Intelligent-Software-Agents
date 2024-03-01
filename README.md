@@ -8,3 +8,6 @@ Probably using phi-2 instead of a larger LLM to save on compute time and cost. C
 <br><br>
 However, it also depends on the performance I can get out of phi-2 for simple general conversation, intent classification, NER. On the bright side, if phi-2 is sufficient, it's small enough to deploy in a edge device like a smart phone or table, assuming the inference isn't too slow. We'll see. More details soon.
 
+
+![TaskSlinger Technical Architecture v01](https://github.com/atsui888/Intelligent-Software-Agents/assets/18540586/f33eebdf-15c5-4988-b9f3-365cf501e596)
+
