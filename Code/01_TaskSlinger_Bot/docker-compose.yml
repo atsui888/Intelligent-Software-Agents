@@ -1,0 +1,19 @@
+version: '1'
+services:
+    convo-summariser:
+        image: rchai/convo_summariser:latest
+        container_name: isa_convo-summariser
+        ports:
+            - "10000:8000"
+    intent-classifier:
+        image: rchai/isa_intent_classifier:latest
+        container_name: isa_intent-classifier
+        ports:
+            - "11000:8000"
+    qna:
+        image: rchai/isa_qna:latest
+        container_name: isa_qna
+        ports:
+            - "12000:8000"
+    
+    
