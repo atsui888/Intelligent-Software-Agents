@@ -1,0 +1,13 @@
+Group Name: Practice Project Group 1
+Project Title: TaskSlinger
+
+TaskSlinger is an intelligent chatbot that takes voice and text input to help users create tasks in their
+Google Calendar. 
+This can benefit a wide range of individuals, including Busy professionals, individuals with disabilities, elderly individuals, multi-taskers, students
+by automating the mundane act of physically creating, listing, deleting tasks from their online calendars with just a voice or text message.
+
+Members:
+Richard Chai Cheng Hee: S****946Z
+
+Weblink to project repository:
+https://github.com/atsui888/Intelligent-Software-Agents
