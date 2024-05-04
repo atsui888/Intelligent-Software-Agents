@@ -23,19 +23,19 @@ And that Intelligent Agent is “Task Slinger”, the protagonist for this 10-ma
 ![02a TaskSlinger Solution Architecture v02 drawio](https://github.com/atsui888/Intelligent-Software-Agents/assets/18540586/79c24eff-4235-49f3-ae67-5678e3198823)
 
 
-TaskSlinger is an intelligent chatbot that takes voice and text input to help users create tasks in their Google Calendar. 
-This can benefit a wide range of individuals, including:
-Busy professionals: 
--	They often have packed schedules and numerous commitments. TaskSlinger can quickly and conveniently add tasks to their calendar without having to manually type them out, saving time and ensuring they don't miss any important appointments.
-Individuals with disabilities: 
--	Those with visual or motor impairments may find it challenging to use a traditional calendar interface. A voice-enabled chatbot provides an accessible alternative, allowing them to manage their calendar hands-free.
-Elderly individuals: 
--	Older adults may find technology challenging to navigate. A simple voice-based interface for adding calendar events can be more intuitive and user-friendly for this demographic.
-Multitaskers: 
--	People who are often on the go or juggling multiple tasks can benefit from the convenience of adding calendar events via voice or text. They can quickly create reminders or schedule appointments without interrupting their current activity.
-Students: 
--	Students often have busy schedules with classes, assignments, and extracurricular activities. A chatbot can help them stay organized by quickly adding deadlines, exam dates, or social events to their calendar.
-An intelligent chatbot like TaskSlinger that takes voice and text input to create tasks in Google Calendar can provide a more efficient, accessible, and user-friendly experience for individuals with busy schedules, disabilities, or those who simply prefer a more conversational way of interacting with technology.
+TaskSlinger is an intelligent chatbot that takes voice and text input to help users create tasks in their Google Calendar. <br>
+This can benefit a wide range of individuals, including: <br>
+* Busy professionals:
+  * They often have packed schedules and numerous commitments. TaskSlinger can quickly and conveniently add tasks to their calendar without having to manually type them out, saving time and ensuring they don't miss any important appointments.
+* Individuals with disabilities:
+  * Those with visual or motor impairments may find it challenging to use a traditional calendar interface. A voice-enabled chatbot provides an accessible alternative, allowing them to manage their calendar hands-free.
+* Elderly individuals:
+  * Older adults may find technology challenging to navigate. A simple voice-based interface for adding calendar events can be more intuitive and user-friendly for this demographic.
+* Multitaskers:
+  * People who are often on the go or juggling multiple tasks can benefit from the convenience of adding calendar events via voice or text. They can quickly create reminders or schedule appointments without interrupting their current activity.
+* Students:
+*   Students often have busy schedules with classes, assignments, and extracurricular activities. A chatbot can help them stay organized by quickly adding deadlines, exam dates, or social events to their calendar.<br>
+An intelligent chatbot like TaskSlinger that takes voice and text input to create tasks in Google Calendar (or others) can provide a more efficient, accessible, and user-friendly experience for individuals with busy schedules, disabilities, or those who simply prefer a more conversational way of interacting with technology.
 
 
 ![TaskSlinger Technical Architecture v01](https://github.com/atsui888/Intelligent-Software-Agents/assets/18540586/f33eebdf-15c5-4988-b9f3-365cf501e596)
