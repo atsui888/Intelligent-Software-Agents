@@ -319,7 +319,7 @@ def detect_intent_and_act(user_msg: str) -> str:
             pass
         case "delete task":
             question = "what is the task number?"
-            context = "please remove task 1"
+            context = user_msg
             res_str = TS_QnA(context=context, question=question)
             event_id = TS_CALENDAR.with_idx_get_event_id(int(res_str))
             print(event_id)
