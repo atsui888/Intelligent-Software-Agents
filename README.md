@@ -36,7 +36,7 @@ This can benefit a wide range of individuals, including: <br>
   * People who are often on the go or juggling multiple tasks can benefit from the convenience of adding calendar events via voice or text. They can quickly create reminders or schedule appointments without interrupting their current activity. <br><br>
 * Students:
  * Students often have busy schedules with classes, assignments, and extracurricular activities. A chatbot can help them stay organized by quickly adding deadlines, exam dates, or social events to their calendar.<br> <br>
-An intelligent chatbot like TaskSlinger that takes voice and text input to create tasks in Google Calendar (or others) can provide a more efficient, accessible, and user-friendly experience for individuals with busy schedules, disabilities, or those who simply prefer a more conversational way of interacting with technology.
+An intelligent chatbot like TaskSlinger that takes voice and text input to create tasks in Google Calendar (or others) can provide a more efficient, accessible, and user-friendly experience for individuals with busy schedules, disabilities, or those who simply prefer a more conversational way of interacting with technology.<br>
 
 **Speech Interaction Demo**
 
