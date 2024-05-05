@@ -2,7 +2,7 @@
 Practice Module 3 for National University of Singapore (ISS) Masters of Technology in Artificial Intelligence
 <br>(10 man-days project) - WIP
 
-This Semester's module is on Intelligent Software Agents (Intelligent Process Automation); removing manual toil in business processes with intelligent chatbot agent and Human-in-the-loop.  <br>
+This Semester's module is on Intelligent Software Agents (Intelligent Process Automation); removing manual toil in business processes with intelligent chatbot agent and Human-in-the-loop.  <br> <br>
 
 **Background**
 
