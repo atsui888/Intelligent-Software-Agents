@@ -9,9 +9,9 @@ This Semester's module is on Intelligent Software Agents (Intelligent Process Au
 Recording tasks and sending notifications is a toil for busy professionals in the office, and especially for those on the move. 
 
 For example, 
--	A manager or a salesperson driving in a car while conversing on the phone and needing to create a task/appointment without operating a laptop or mobile phone while driving because it is illegal and unsafe, or 
--	A shopper with shopping bags in both hands trying to make an appointment in their calendar or create a task. 
--	Anyone who needs to create a task/appointment/event directly from a group chat (e.g. Telegram Groups), has lots of copy/paste to do, to move data from the group chat to their calendaring software.
+* A manager or a salesperson driving in a car while conversing on the phone and needing to create a task/appointment without operating a laptop or mobile phone while driving because it is illegal and unsafe, or 
+* A shopper with shopping bags in both hands trying to make an appointment in their calendar or create a task. 
+* Anyone who needs to create a task/appointment/event directly from a group chat (e.g. Telegram Groups), has lots of copy/paste to do, to move data from the group chat to their calendaring software.
 
 In the above situations, they would need to use their hands to open their calendaring app to type in the details, set a notification and email the task to people involved, which would be difficult indeed.  
 Moreover, if they are using a computer laptop, they would need to find a place to sit or face the risk prospect of balancing their laptop on one hand while typing with the other. And if they were using a mobile phone, creating tasks and appointments using a tiny screen and keyboard can be a pain.
