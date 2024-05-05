@@ -38,6 +38,13 @@ This can benefit a wide range of individuals, including: <br>
  * Students often have busy schedules with classes, assignments, and extracurricular activities. A chatbot can help them stay organized by quickly adding deadlines, exam dates, or social events to their calendar.<br> <br>
 An intelligent chatbot like TaskSlinger that takes voice and text input to create tasks in Google Calendar (or others) can provide a more efficient, accessible, and user-friendly experience for individuals with busy schedules, disabilities, or those who simply prefer a more conversational way of interacting with technology.
 
+**Speech Interaction Demo**
+
+
+**Text Interaction Demo**
+
+**Technical Reference Architecture**
 
 ![TaskSlinger Technical Architecture v01](https://github.com/atsui888/Intelligent-Software-Agents/assets/18540586/f33eebdf-15c5-4988-b9f3-365cf501e596)
+
 
