@@ -46,4 +46,4 @@ https://youtu.be/T_Drp_PY3W4<br>
 
 ![TaskSlinger Technical Architecture v01](https://github.com/atsui888/Intelligent-Software-Agents/assets/18540586/f33eebdf-15c5-4988-b9f3-365cf501e596)
 
-
+https://www.linkedin.com/in/richardchai/
