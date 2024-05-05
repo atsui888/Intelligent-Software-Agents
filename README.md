@@ -19,7 +19,8 @@ Moreover, if they are using a computer laptop, they would need to find a place t
 Rather than manually doing transcription, extraction, summarization, task creation and notification, wouldn’t it be far easier to text or speak to an Intelligent Agent who can do all that within seconds?
 
 And that Intelligent Agent is “Task Slinger”, the protagonist for this 10-man-day project.
-
+ <br>
+ **Solution Architecture**
 ![02a TaskSlinger Solution Architecture v02 drawio](https://github.com/atsui888/Intelligent-Software-Agents/assets/18540586/79c24eff-4235-49f3-ae67-5678e3198823)
 
 
