@@ -1,6 +1,6 @@
 # Intelligent-Software-Agents
-Practice Module 3 for National University of Singapore (ISS) Masters of Technology in Artificial Intelligence
-<br>(10 man-days project) - WIP
+TaskSlinger - Task Management made easy (voice and text) National University of Singapore (ISS) Masters of Technology in Artificial Intelligence
+<br>Practice Module 3 (10 man-days project) 
 
 This Semester's module is on Intelligent Software Agents (Intelligent Process Automation); removing manual toil in business processes with intelligent chatbot agent and Human-in-the-loop.  <br> <br>
 
